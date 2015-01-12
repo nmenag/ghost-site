@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  <title>static pages - nmenag</title>
+
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="google-site-verification" content="HpqnFb7kWJ2rorYUpxEVlzFv3nVruLQXoS_zoYnzo0A"/>
+
+  <meta name="description" content="">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="static pages">
+  <meta name="twitter:description" content="">
+
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="static pages">
+  <meta property="og:description" content="">
+
+  <link rel="shortcut icon" href="assets/img/favicon.ico">
+  <link rel="apple-touch-icon" sizes="57x57" href="assets/img/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="assets/img/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="assets/img/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="assets/img/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="assets/img/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="assets/img/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="assets/img/favicon-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="assets/img/favicon-160x160.png" sizes="160x160">
+  <link rel="icon" type="image/png" href="assets/img/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="assets/img/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="assets/img/favicon-32x32.png" sizes="32x32">
+  <meta name="msapplication-TileColor" content="#00a300">
+  <meta name="msapplication-TileImage" content="/assets/img/mstile-144x144.png">
+  <meta name="msapplication-config" content="/assets/img/browserconfig.xml">
+
+  <link rel="stylesheet" type="text/css" href="assets/css/uno.css?v=acdda6bad9" />
+
+  <link rel="canonical" href="http://localhost:2368/static-pages/" />
+    
+    <meta property="og:site_name" content="nmenag" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="static pages" />
+    <meta property="og:description" content="pages..." />
+    <meta property="og:url" content="http://localhost:2368/static-pages/" />
+    <meta property="article:published_time" content="2015-01-12T01:20:01.501Z" />
+    <meta property="article:modified_time" content="2015-01-12T01:20:01.500Z" />
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="static pages" />
+    <meta name="twitter:description" content="pages..." />
+    <meta name="twitter:url" content="http://localhost:2368/static-pages/" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "publisher": "nmenag",
+    "author": {
+        "@type": "Person",
+        "name": "Nicolas Mena",
+        "url": "http://localhost:2368/author/nicolas",
+        "sameAs": null
+    },
+    "headline": "static pages",
+    "url": "http://localhost:2368/static-pages/",
+    "datePublished": "2015-01-12T01:20:01.501Z",
+    "dateModified": "2015-01-12T01:20:01.500Z",
+    "description": "pages..."
+}
+    </script>
+
+    <meta name="generator" content="Ghost 0.5" />
+    <link rel="alternate" type="application/rss+xml" title="nmenag" href="http://localhost:2368/rss/" />
+
+</head>
+<body class="post-template page-template page no-js">
+
+  <span class="mobile btn-mobile-menu">
+    <i class="icon icon-list btn-mobile-menu__icon"></i>
+    <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
+  </span>
+
+  <header class="panel-cover panel-cover--collapsed" >
+    <div class="panel-main">
+  
+      <div class="panel-main__inner panel-inverted">
+      <div class="panel-main__content">
+  
+          <h1 class="panel-cover__title panel-title"><a href="http://localhost:2368" title="link to homepage for nmenag">Kiko Beats</a></h1>
+          <hr class="panel-cover__divider" />
+          <p class="panel-cover__description">Thoughts, stories and ideas.</p>
+  
+          <hr class="panel-cover__divider panel-cover__divider--secondary" />
+  
+          <div class="navigation-wrapper">
+  
+            <form id="search">
+              <i class="icon icon-search"></i>
+              <input type="text", name="search", placeholder="git, css, javascript,..." id="search-field" />
+              <hr class="panel-cover__divider panel-cover__divider--secondary" />
+            </form>
+  
+            <nav class="cover-navigation cover-navigation--primary">
+              <ul class="navigation">
+                <li class="navigation__item"><a href="index.html#open" title="link to nmenag blog" class="blog-button">Blog</a></li>
+                <li class="navigation__item"><a href="index.html#open" title="link to nmenag blog" class="blog-button">Acerca de mi</a></li>
+                <li class="navigation__item"><a href="static-pages" title="link to nmenag blog" class="blog-button">Contacto</a></li>
+              </ul>
+            </nav>
+  
+            
+            <nav class="cover-navigation navigation--social">
+              <ul class="navigation">
+            
+              <!-- Twitter -->
+              <li class="navigation__item hvr-grow-rotate">
+                <a target="blank" href="http://twitter.com/kikobeats" title="@Kikobeats on Twitter">
+                  <i class='icon icon-social-twitter'></i>
+                  <span class="label">Twitter</span>
+                </a>
+              </li>
+            
+              <!-- Linkedin -->
+              <li class="navigation__item hvr-grow-rotate">
+                <a target="blank" href="http://linkedin.com/in/kikobeats" title="Kikobeats on LinkedIn">
+                  <i class='icon icon-social-linkedin'></i>
+                  <span class="label">Linkedin</span>
+                </a>
+              </li>
+            
+              <!-- Github -->
+              <li class="navigation__item hvr-grow-rotate">
+                <a target="blank" href="https://github.com/Kikobeats" title="Kikobeats on Twitter">
+                  <i class='icon icon-social-github'></i>
+                  <span class="label">Github</span>
+                </a>
+              </li>
+            
+              <!-- Email -->
+              <li class="navigation__item hvr-grow-rotate">
+                <a target="blank" href="mailto:josefrancisco.verdu@gmail.com" title="Email josefrancisco.verdu@gmail.com">
+                  <i class='icon icon-mail'></i>
+                  <span class="label">Email</span>
+                </a>
+              </li>
+            
+              <!-- RSS -->
+              <li class="navigation__item hvr-grow-rotate">
+                <a href="rss/index.html" title="Subscribe">
+                  <i class='icon icon-rss'></i>
+                  <span class="label">RSS</span>
+                </a>
+              </li>
+            
+              </ul>
+            </nav>
+  
+          </div>
+  
+        </div>
+  
+      </div>
+  
+      <div class="panel-cover--overlay"></div>
+    </div>
+  </header>
+
+  <div class="content-wrapper">
+    <div id="results"></div>
+    <div class="content-wrapper__inner">
+      
+
+  <article class="post-container post-container--single">
+
+    <header class="post-header">
+      <h1 class="post-title">static pages</h1>
+    </header>
+
+    <section class="post page">
+      <h2 id="pages">pages</h2>
+    </section>
+
+  </article>
+
+
+      <footer class="footer">
+        <span class="footer__copyright">&copy; 2015. All rights reserved.</span>
+      </footer>
+    </div>
+  </div>
+
+  <script src="public/jquery.js?v=acdda6bad9"></script>
+  <script type="text/javascript" src="assets/js/uno.js?v=acdda6bad9"></script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+    ga('create', 'UA-56994517-2', 'auto');
+    ga('send', 'pageview');
+  
+  </script>
+</body>
+</html>
